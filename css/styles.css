@@ -1,5 +1,5 @@
 .row-header{
-    margin: 0px autoo;
+    margin: 0px auto;
     padding: 0px auto;
 }
 
@@ -35,4 +35,11 @@ body {
 
 .navbar-dark {
     background-color: #512DA8;
+}
+
+div button {
+    float: right;
+    margin-left: -50%;
+    margin-top: 2em;
+    margin-right: 15em;
 }
